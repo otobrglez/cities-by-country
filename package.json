@@ -1,0 +1,12 @@
+{
+  "name": "cities-by-country",
+  "description": "Cities by Country",
+  "author": "Oto Brglez <otobrglez@gmail.com>",
+  "repository": "otobrglez/cities-by-country",
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.4.1"
+}
