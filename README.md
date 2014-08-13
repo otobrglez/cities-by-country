@@ -1,9 +1,9 @@
 # cities-by-country
 
-By [Oto Brglez][otobrglez]
+By [Oto Brglez][otobrglez] licensed under MIT.
 
-## Developement
+## Rake tasks
 
-    npm install
+    rake cbc:fetch
 
-[otobrglez]:http://github.com/otobrglez
+[otobrglez]:https://github.com/otobrglez/cities-by-country
